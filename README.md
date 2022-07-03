@@ -6,6 +6,7 @@ Simple Youtube Music App for Windows (with no features)
 <br />
 <br />
 I have made this app just for fun, that's why i use Python, so be lenient about it, cause python is relatively slow by default :)
+<br />
 <sub> (but also because there is no Youtube Music application) </sub>
 
 # Installation
@@ -14,10 +15,9 @@ I have made this app just for fun, that's why i use Python, so be lenient about 
 ```
 C:\Users\YOUR_USER_NAME\AppData\Roaming\Microsoft\Windows\Start Menu\Programs
 ```
-<br />
 Then you can call the app with the start menu to launch it.
 
-<br /><br />
+<br />
 (you also can use it directly, because is a portable version, you just need to execute the .exe file)
 
 # Made by Matlyce
