@@ -1,8 +1,9 @@
 # Youtube Music for Windows
 Simple Youtube Music App for Windows (with no features)
-<br />This application basically embed music.youtube.com into a Windows application (.exe)
 <br />
-<sub>This app was made in Python, and compiled to an .exe app, so that's normal if the app is sometimes slow.</sub>
+This application basically embed music.youtube.com into a Windows application (.exe)
+<br />
+<sub>This app was made in Python (using PyQt5), and compiled to an .exe app, so that's normal if the app is sometimes slow.</sub>
 <br />
 <br />
 I have made this app just for fun, that's why i use Python, so be lenient about it, cause python is relatively slow by default :)
