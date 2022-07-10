@@ -10,6 +10,9 @@ I have made this app just for fun, that's why i use Python, so be lenient about 
 <br />
 <sub> (but also because there is no Youtube Music application) </sub>
 
+
+![screenshot](https://user-images.githubusercontent.com/85689655/178164299-db73aa4f-ab76-44a5-a9ce-29e8199af456.png)
+
 # Installation
 **On Windows :**<br />
 -> Move the app in a folder to this path on your computer :
